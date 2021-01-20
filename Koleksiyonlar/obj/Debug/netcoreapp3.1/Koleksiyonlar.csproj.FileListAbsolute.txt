@@ -1,0 +1,13 @@
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\kerem\source\repos\Metotlar\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache
